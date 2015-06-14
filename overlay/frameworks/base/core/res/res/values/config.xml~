@@ -229,6 +229,8 @@
     <!-- Does the battery LED support multiple colors? Used to decide if the user can change the colors -->
     <bool name="config_multiColorBatteryLed">true</bool>
 
+    <bool name="config_multiColorNotificationLed">true</bool>
+
 <!-- Default color for notification LED is white. -->
     <color name="config_defaultNotificationColor">#00FF00</color>
 
